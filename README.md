@@ -3,5 +3,4 @@
 A production grade machine learning platforn for diabetes risk prediction.
 
 ## Status
-Project initialized.
-
+Project initialized. Deployed via GitHub web editor.
